@@ -4,5 +4,6 @@
 
 ## Contenidos:
 
+- Conceptos básicos
 - Variables
 - Operadores aritméticos
